@@ -20,7 +20,7 @@ Skills Learned:
  * Returns the song lyrics that was found within the API
 
 ### Mockup
-<img src="" width ="200"/> <img src= "" width="200"/>
+<img src="https://github.com/Angel39706/LyricSaver/blob/main/Images/songFile.png" width ="200"/> <img src= "https://github.com/Angel39706/LyricSaver/blob/main/Images/lyricFile.png" width="200"/>
 
 
 ### Networking
