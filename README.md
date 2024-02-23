@@ -5,10 +5,10 @@
 
 Developed a lyric scraper using node.js with superagent package to process a http request method to an API. My goal for this project was to apply my current knowledge of Backend development with newly founded skills.
 
-Skills Learned:
-    -Node.js
-    -Promises
-    -nodemon and superagent package
+* Skills Learned:
+    * Node.js
+    * Promises
+    * nodemon and superagent package
 
 ## Product Spec
 
@@ -20,7 +20,7 @@ Skills Learned:
  * Returns the song lyrics that was found within the API
 
 ### Mockup
-<img src="https://github.com/Angel39706/LyricSaver/blob/main/Images/songFile.png" width ="200"/> <img src= "https://github.com/Angel39706/LyricSaver/blob/main/Images/lyricFile.png" width="200"/>
+<img src="https://github.com/Angel39706/LyricSaver/blob/main/Images/songFile.png" width ="650"/> <img src= "https://github.com/Angel39706/LyricSaver/blob/main/Images/lyricFile.png" width="650"/>
 
 
 ### Networking
